@@ -1,0 +1,20 @@
+My first mod.
+It's a sword? it's a pickaxe? NO it's a PICKSWORD.
+NOW U CAN USE BOT PICK AND SWORD IN A SINGLE MELEE WEAPON, SLAUGHTER BUNNIES AND MINE THEM AT THE SAME TIME.
+to not be confused with "Picksword v0.2" by SweetheartJayce.
+
+Version History:
+v1.0:
+-Added all vanilla pre-hardmode/hardmode ore Pickswords;
+-Added corruption and crimson ore Pickswords;
+-Added Cactus Picksword;
+-Added Enchanted, True Excalibur and Terra Blade based Pickswords (these Pickswords can be crafted back in the used swords).
+v2.0:
+-Added Candy cane Picksword
+-Added Bone Picksword
+-Added Shroomite Picksword(there's no shroomite sword so use more bars)
+-Added Spectre Picksword(same as shroomite)
+-Added Lunar Picksword
+-Added mod Icon
+
+If you find some bugs or want to help with the mod code-sprites join my discord server https://discord.gg/jr7nWCMdWY 
