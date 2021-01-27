@@ -4,12 +4,12 @@ NOW U CAN USE BOT PICK AND SWORD IN A SINGLE MELEE WEAPON, SLAUGHTER BUNNIES AND
 to not be confused with "Picksword v0.2" by SweetheartJayce.
 
 Version History:
-V1.0:
+v1.0:
 -Added all vanilla pre-hardmode/hardmode ore Pickswords;
 -Added corruption and crimson ore Pickswords;
 -Added Cactus Picksword;
 -Added Enchanted, True Excalibur and Terra Blade based Pickswords (these Pickswords can be crafted back in the used swords).
-V2.o:
+v2.0:
 -Added Candy cane Picksword
 -Added Bone Picksword
 -Added Shroomite Picksword(there's no shroomite sword so use more bars)
