@@ -5,7 +5,7 @@ using System;
 
 namespace PickswordsModByClugiamp.Projectiles
 {
-    //Function made by Lynx, all credits goes to him
+    //Function made by Lynx modding master class tutorial, all credits goes to him
     public class SpinningWeaponProjectileOri : ModProjectile
     {
         public override void SetDefaults()

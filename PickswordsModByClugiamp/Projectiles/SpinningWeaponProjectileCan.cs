@@ -6,7 +6,7 @@ using System;
 namespace PickswordsModByClugiamp.Projectiles
 {
     //Function made by Lynx modding master class tutorial, all credits goes to him
-    public class SpinningWeaponProjectilePal : ModProjectile
+    public class SpinningWeaponProjectileCan : ModProjectile
     {
         public override void SetDefaults()
         {
@@ -17,7 +17,6 @@ namespace PickswordsModByClugiamp.Projectiles
             projectile.ignoreWater = true;
             projectile.melee = true;
         }
-
         public override void AI()
         {
             // Set some variables
